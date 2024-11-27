@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: thetuan244/ci-cd:staging
+          tags: thetuan244/learn-ci-cd:staging
 
 
   pull-and-up:
